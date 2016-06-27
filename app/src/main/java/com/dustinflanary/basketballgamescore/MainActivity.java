@@ -4,11 +4,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
 import android.view.View;
-
 import junit.framework.Test;
 
 public class MainActivity extends AppCompatActivity {
-
     int scoreTeam1 = 0;
     int scoreTeam2 = 0;
 
